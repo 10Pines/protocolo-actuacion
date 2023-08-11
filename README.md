@@ -242,9 +242,7 @@ Conforme 10Pines cambia, este protocolo también podría hacerlo.
 ** ** 
 <sub>(1) Ya sea sexual o laboral
 
-<sub>(2) Fuente: OIT Convención sobre la violencia y acoso, 2019 (núm 190).
-
-<sub>https://www.ilo.org/dyn/normlex/es/f?p=NORMLEXPUB:12100:0::NO::P12100_ILO_CODE:C190
+<sub>(2) Fuente: OIT Convención sobre la violencia y acoso, 2019 (núm 190). https://www.ilo.org/dyn/normlex/es/f?p=NORMLEXPUB:12100:0::NO::P12100_ILO_CODE:C190
 
 <sub>(3) Toda persona que forma parte de la Sociedad (10Pines SRL) es responsable legalmente ante la Ley Argentina, por lo tanto tiene derecho a acceder a dicha información. Todes les socies se comprometen a mantener la confidencialidad que se mencionó anteriormente.
 
